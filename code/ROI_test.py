@@ -48,7 +48,7 @@ def onMouse(event, x, y, flag, params):
 
 
 if __name__ == '__main__':
-    img = cv2.imread("2019-12-04 12.13.jpg")
+    img = cv2.imread("2019_12_04_12_13.jpg")
     wname = "MouseEvent"
     wname2 = "roi"
     cv2.namedWindow(wname)
